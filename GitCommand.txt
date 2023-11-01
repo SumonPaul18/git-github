@@ -1,0 +1,46 @@
+
+#create a new repository on the command line:
+
+git init
+git add  --all / specefic file 	- add for Staging area
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SumonPaul18/SumonPortfolio.git
+git remote show origin
+git push -u origin main
+
+#add global user/mail:
+git config --global user.name "Sumon Paul"
+git config --global user.mail "sumonpaul267@gmail.com"
+
+#add local user/mail:
+git config --local user.name "Your Name Here"
+git config --local user.email "your_email@youremail.com"
+
+#show config list:
+git config --list
+
+#check branch:
+git branch
+
+#create new branch:
+git checkout -b [new branch name]
+
+#switch branch:
+git checkout [brunch-name]
+
+#do for merge (master to others)
+git merge <branch-name>
+
+#show commit log
+git log			- show commit log shortly
+git log --patch		- show commit log details
+git log --oneline		- show only commit message
+git show [commit code]	- git show 6bab78a
+
+
+
+
+
+
+
