@@ -38,6 +38,11 @@ git log --patch		- show commit log details
 git log --oneline		- show only commit message
 git show [commit code]	- git show 6bab78a
 
+### Clone a Specific Git Branch Repository
+
+it clone --single-branch --branch easylinux-v.1 https://github.com/SumonPaul18/easylinux.git
+
+    git clone --single-branch --branch easylinux-v.1 https://github.com/SumonPaul18/easylinux.git
 
 
 
