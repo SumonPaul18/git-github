@@ -46,10 +46,20 @@
     git merge <branch-name>
 
 ### Show commit log
-git log			- show commit log shortly
-git log --patch		- show commit log details
-git log --oneline		- show only commit message
-git show [commit code]	- git show 6bab78a
+Show commit log shortly
+    
+    git log			
+Show commit log details
+
+    git log --patch		
+
+Show only commit message
+
+    git log --oneline		
+
+Git show 6bab78a
+
+    git show [commit code]	
 
 ### Clone a Specific Git Branch Repository
 
