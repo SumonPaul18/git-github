@@ -1,4 +1,6 @@
 # Dockerized Java Application with Persistent Storage
+#### Language Seletion:
+**English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
 
 This repository contains a simple Java application packaged with Docker, featuring persistent storage.
 
