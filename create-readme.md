@@ -1,10 +1,12 @@
-# Dockerized Java Application with Persistent Storage
-#### Language Seletion:
+# How to Write GitHub .md file 
+## .md extention specifying Github Page 
+
+#### How to Seletion Language in .md files 
 **English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
 
 This repository contains a simple Java application packaged with Docker, featuring persistent storage.
 
-## Table of Contents
+## How to Create Table of Contents
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
@@ -18,17 +20,11 @@ This repository contains a simple Java application packaged with Docker, featuri
 - [Cleanup](#cleanup)
 - [License](#license)
 
-## Introduction
+## Add a Link URL in a Title or Name
 
-This project demonstrates how to deploy a simple Java application using Docker, with a focus on persistent storage. The Java app writes logs to a file, and these logs are stored outside the Docker container on the host system, ensuring data persistence even when the container is stopped or removed.
-
-## Prerequisites
-
-Before you start, ensure you have Docker installed:
+Here, Docker is Link name.
 
 - [Docker](https://www.docker.com/)
-
-## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -54,3 +50,10 @@ Once the container is running, you can access the server by navigating to:
 ```
 http://Your_docker_host_ip:4000
 ```
+## 🫂 Contributors
+
+<a href="https://github.com/dogukanurker"><img src="https://avatars.githubusercontent.com/u/62756402" title="dogukanurker" width="80" height="80"></a>
+<a href="https://github.com/adindrabkin"><img src="https://avatars.githubusercontent.com/u/47116975" title="adindrabkin" width="80" height="80"></a>
+<a href="https://github.com/codehwang"><img src="https://avatars.githubusercontent.com/u/26578588" title="codehwang" width="80" height="80"></a>
+<a href="https://github.com/dkashkarev"><img src="https://avatars.githubusercontent.com/u/67013355" title="dkashkarev" width="80" height="80"></a>
+<a href="https://github.com/dkashkarev"><img src="https://avatars.githubusercontent.com/u/2644169" title="barmar" width="80" height="80"></a>
