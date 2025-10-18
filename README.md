@@ -1,4 +1,5 @@
-# Git Command Using
+# Learn Git and GitHub
+## Git Command Using
 
 ### Add global user/mail:
 
